@@ -8,3 +8,36 @@ img{
   border:
 }
 }
+body{ 
+  background-color:#FAC9B8;
+}
+h1{color:#F4A698}
+img{
+  width:40%;
+  border:
+}
+nav {
+  list-style-type: none;
+  background-color: #EDAF97;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 15px 50px;
+}
+
+li a:hover {
+  background-color: antiquewhite;
+  color: #FE938C;
+}
